@@ -4,6 +4,7 @@ I build **smart traps** for invasive animals at [Wild Vision Systems](https://wi
 - embedded systems with python and c++
 - mobile-first apps with react
 - a backing platform with node
+- AI models for image classification and object detection
 
 <!--
 **jamstooks/jamstooks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
