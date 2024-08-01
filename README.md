@@ -1,9 +1,9 @@
 ### 👋 &nbsp; Hi!
 
 I build **smart traps** for invasive animals at [Wild Vision Systems](https://wildvision.ai), designing:
-- embedded systems with python and c++
+- embedded systems on microcontrolers with python and c++
 - mobile-first apps with react
-- a backing platform with node
+- backing platform with node on aws
 - AI models for image classification and object detection
 
 <!--
